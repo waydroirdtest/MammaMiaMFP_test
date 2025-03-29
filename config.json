@@ -9,7 +9,7 @@
             "enabled": "1"
         },
         "Filmpertutti": {
-            "url": "https://filmpertutti.pizza",
+            "url": "https://filmpertutti.motorcycles",
             "enabled": "1"
         },
         "Tantifilm": {
@@ -54,7 +54,7 @@
             "GS_PROXY": "1"
         },
         "GuardaHD": {
-            "url": "https://guardaserie.meme",
+            "url": "https://guardahd.stream",
             "enabled": "1",
             "GH_ForwardProxy": "0",
             "GH_PROXY": "1"
